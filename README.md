@@ -1,4 +1,6 @@
-## Backend Template using Postgres, Typescript and Express with RBAC.
+# Backend Node Js Template using Express and Typescript with RBAC.
 
-### Kysely as query builder and prisma as schema builder and migration handler.
+- ```Kysely as query builder and prisma as schema builder and migration handler.```
+- ```Domain specific logic and folder structure```
+
 
